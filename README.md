@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karimanhamadd
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
+
 - 📫 How to reach me : karimanhamad@uvic.ca or +1(250)888-4258
 
 <!---
